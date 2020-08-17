@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{547AD348-F888-4BB3-8B80-EF61F98EB19D}|DekorStone_API">
+  <MonoDevelop.Ide.ItemProperties.DekorStone__API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DekorStone_API/wwwroot/DekorStone/app/Index.html">
+    <Files>
+      <File FileName="DekorStone_API/Models/Db/DbInsert.cs" Line="166" Column="53" IsPinned="True" />
+      <File FileName="DekorStone_API/Controllers/ds.cs" />
+      <File FileName="DekorStone_API/Models/Db/Security.cs" />
+      <File FileName="DekorStone_API/Models/Db/DbSelect.cs" />
+      <File FileName="DekorStone_API/Models/Structs/DailySumStruct.cs" />
+      <File FileName="DekorStone_API/Program.cs" />
+      <File FileName="DekorStone_API/wwwroot/DekorStone/app/Index.html" Line="25" Column="44" />
+      <File FileName="DekorStone_API/wwwroot/DekorStone/index.js" />
+      <File FileName="DekorStone_API/wwwroot/DekorStone/menu/Index.html" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DekorStone_API" expanded="True">
+            <Node name="DekorStone_API" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Db" expanded="True" />
+                <Node name="Structs" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="DekorStone" expanded="True">
+                  <Node name="app" expanded="True" />
+                  <Node name="kassa" expanded="True" />
+                  <Node name="menu" expanded="True" />
+                  <Node name="orders" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
