@@ -5886,23 +5886,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/rufat/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/rufat/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rufat/Projects/DekorStone_API/DekorStone_API/DekorStone_API.csproj",
+      "projectUniqueName": "/Users/rufat/Documents/GitHub/DekorStone_API/DekorStone_API/DekorStone_API.csproj",
       "projectName": "DekorStone_API",
-      "projectPath": "/Users/rufat/Projects/DekorStone_API/DekorStone_API/DekorStone_API.csproj",
+      "projectPath": "/Users/rufat/Documents/GitHub/DekorStone_API/DekorStone_API/DekorStone_API.csproj",
       "packagesPath": "/Users/rufat/.nuget/packages/",
-      "outputPath": "/Users/rufat/Projects/DekorStone_API/DekorStone_API/obj/",
+      "outputPath": "/Users/rufat/Documents/GitHub/DekorStone_API/DekorStone_API/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/rufat/.nuget/NuGet/NuGet.Config"
+        "/Users/rufat/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5947,7 +5943,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
       }
     }
   }
